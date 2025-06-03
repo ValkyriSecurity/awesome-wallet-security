@@ -14,7 +14,7 @@
 ## Blogs
 - [Crypto Wallet Security ](https://www.cossacklabs.com/blog/crypto-wallets-security/) by security engineers
 - [Crypto Wallet Security](https://speakerdeck.com/julep/crypto-wallets-security-for-developers?slide=2) for developers
-- [Wallet Security Writeups by Slowmist](https://slowmist.medium.com/list/wallet-security-bed2028c226b) : Slowmist writeups for wallet security
+- [Wallet Security Writeups](https://slowmist.medium.com/list/wallet-security-bed2028c226b) by Slowmist
 - [0day Wallet can leak the users private key](https://medium.com/@exvul/0day-multiable-wallets-can-leak-the-users-private-key-b2c3e89c3226) by ExvulSec
 - [Wallet Draining issues](https://www.coinspect.com/blog/wallet-silent-drain/) by Coinspect
 - [Fuelet Wallet Password Replacement Attack Report](https://github.com/EXVUL-Sec/AuditReport/blob/main/Wallet/%5BCritical%20bug%5DFuelet%20Wallet%20password%20replacement%20attack.pdf) by ExvulSec
