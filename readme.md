@@ -1,3 +1,15 @@
+# Awesome Wallet Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> 💼 Curated list of Wallet Security resources
+
+## Contents
+- [Blogs](#blogs)
+- [Wallet Web Audit Reports](#wallet-web-audit-reports)
+- [Wallet Android App Audit Reports](#wallet-android-app-audit-reports)
+- [Wallet iOS App Audit Reports](#wallet-ios-app-audit-reports)
+- [Tools](#tools)
+
+
 ## Blogs
 - [Wallet Security Writeups by Slowmist](https://slowmist.medium.com/list/wallet-security-bed2028c226b)
 - [0day Wallet can leak the users private key by ExvulSec](https://medium.com/@exvul/0day-multiable-wallets-can-leak-the-users-private-key-b2c3e89c3226)
@@ -45,4 +57,4 @@
 - [Fantom MultiSig Wallet Audit Report by SigmaPrime](https://github.com/sigp/public-audits/blob/master/reports/fantom/fantom-multisig-wallet/review.pdf)
 
 ## Tools 
-- (Wallet Audits)[(https://walletaudits.com]
+- [Wallet Audits](https://walletaudits.com)
