@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> We have built a free AI assisted tool for **Auditing Wallet Extension** - [WalletAudits.com](https://walletaudits.com)
+> We have built a free **AI-assisted** tool for **Auditing Wallet Extension** - [WalletAudits.com](https://walletaudits.com)
 >
 > Supply the URL of the Wallet Extension you've been using. And get the analysis of the issues, configurations, misconfigurations in place. Stay vigilant, and have the information before the breach knocks in!
 > 
