@@ -21,7 +21,7 @@
 
 ## Courses
 - [Wallet Security Basics](https://updraft.cyfrin.io/courses/web3-wallet-security-basics) by Cyfrin Updraft
-
+- [Crypto Security 101](https://learn.chainaware.ai/) : Mini Course by Chainaware
 ## Wallet Web Audit Reports
 - [Anatha Wallet Report](https://github.com/HalbornSecurity/PublicReports/blob/master/Protocol%20Wallet%20Pen%20Tests/Anatha_Wallet_PenetrationTest_report_Halborn_v1.pdf) by Halborn
 - [AVAX Wallet Audit Report](https://github.com/HalbornSecurity/PublicReports/blob/master/Protocol%20Wallet%20Pen%20Tests/AVA%20LABS_AVAX%20Wallet_PenTest_Halborn_Report.pdf) by Halborn
