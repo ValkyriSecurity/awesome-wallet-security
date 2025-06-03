@@ -68,7 +68,7 @@
 - [Gatekeep](https://gatekeep.xyz/) : Anti-theft system for crypto wallets. Intercepts malicious transactions before they process on chain
 - [Revoke Cash](https://revoke.cash/) : Take Back Control of Your Wallet
 - [Blowfish](https://blowfish.xyz/) : Blowfish is a risk-assessment tool for Web3 wallets
-- [PocketUniverse](https://www.pocketuniverse.app/) :
+- [PocketUniverse](https://www.pocketuniverse.app/) : Pocket Universe is a free browser extension that keeps assets safe when you sign web3 transactions.
 - [Blockaid](https://www.blockaid.io/) : Protect users against fraud, scams, phishing, and hacks
 - [Solsniffer](https://www.solsniffer.com/) : Advanced token sniffer and wallet portfolio tracker on Solana for secure trading analysis.
 - [Cobo Argus](https://www.cobo.com/products/argus) : Cobo Argus addresses the complexity faced by Safe{Wallet} users in DeFi operations, which require multiple signatures. It introduces a single-signature module for better risk control and role delegation, simplifying team operations.
