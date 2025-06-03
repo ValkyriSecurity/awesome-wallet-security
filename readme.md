@@ -1,7 +1,16 @@
+> [!IMPORTANT]  
+> We have built a free tool for **Auditing Wallet Extension** - [WalletAudits.com](https://walletaudits.com)
+>
+> Supply the URL of the Wallet Extension you've been using. And get the analysis of the issues, configurations, misconfigurations in place. Stay vigilant, and have the information before the breach knocks in!
+> 
+> DMs are open for audits and collaboration: [WalletAudits](https://t.me/WalletAudits)
+
 # Awesome Wallet Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > 💼 Curated list of Wallet Security resources
+Most wallet web/app/extensions/contracts suffer from bugs or misconfigurations. So the security of those assets are really crucial element for defenders, or else attackers takeover. The crypto wallets holds billions of dollars. So the potential to loose such a huge chunk of financial assets is never worth more than an audit.
 
+>  
 ## Contents
 - [Blogs](#blogs)
 - [Courses](#courses)
