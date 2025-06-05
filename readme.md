@@ -6,6 +6,7 @@
 > DMs are open for audits and collaboration: [WalletAudits](https://t.me/WalletAudits)
 
 # Awesome Wallet Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![image](https://github.com/user-attachments/assets/8230c74d-4a71-4666-a93d-eadefa329660)
 
 > 💼 **Curated list of Wallet Security resources**
 > 
