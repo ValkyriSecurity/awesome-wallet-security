@@ -16,10 +16,12 @@
 ## Contents
 - [Blogs](#blogs)
 - [Courses](#courses)
+- [Checklists](#checklists)
 - [Wallet Web Audit Reports](#wallet-web-audit-reports)
 - [Wallet Android App Audit Reports](#wallet-android-app-audit-reports)
 - [Wallet iOS App Audit Reports](#wallet-ios-app-audit-reports)
 - [Tools](#tools)
+
 
 
 ## Blogs
@@ -30,16 +32,22 @@
 - [Wallet Draining issues](https://www.coinspect.com/blog/wallet-silent-drain/) by Coinspect
 - [Fuelet Wallet Password Replacement Attack Report](https://github.com/EXVUL-Sec/AuditReport/blob/main/Wallet/%5BCritical%20bug%5DFuelet%20Wallet%20password%20replacement%20attack.pdf) by ExvulSec
 
-## Courses
+## Courses 
+_Note: These courses are meant for users who are using crypto wallets for any operations, and is **highly recommended**_ 
 - [Wallet Security Basics](https://updraft.cyfrin.io/courses/web3-wallet-security-basics) by Cyfrin Updraft
 - [Crypto Security 101](https://learn.chainaware.ai/) : Mini Course by Chainaware
+
+## Checklists 
+- [Blockcapex](https://blockapex.io/web3-wallet-security-checklist/) - Mobile, Desktop, Extension, Web
+- [Certik](https://www.certik.com/resources/blog/cryptowalletsecurityassessmentchecklist) - Mobile, Web, Extension, Desktop
+- [Slowmist](https://www.slowmist.com/service-wallet-security-audit.html) - Extension, Mobile & Desktop, Hardware, Web3 MCP
+- [Slowmist](https://slowmist.medium.com/slowmist-security-audit-checklist-for-account-abstraction-wallets-ed48fc10cdbc) - Account Abstraction Wallet (on-chain)
+
 ## Wallet Web Audit Reports
 - [Anatha Wallet Report](https://github.com/HalbornSecurity/PublicReports/blob/master/Protocol%20Wallet%20Pen%20Tests/Anatha_Wallet_PenetrationTest_report_Halborn_v1.pdf) by Halborn
 - [AVAX Wallet Audit Report](https://github.com/HalbornSecurity/PublicReports/blob/master/Protocol%20Wallet%20Pen%20Tests/AVA%20LABS_AVAX%20Wallet_PenTest_Halborn_Report.pdf) by Halborn
-- [SUI WebApp Wallet Report](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Sui_Wallet_WebApp_Pentest_Report_Halborn_Final.pdf)
-- [SUI Web Extension Wallet Report](https://github.com/sui-foundation/security-audits/blob/main/docs/mysten_labs_sui_wallet_report_0.9.pdf)
+- [SUI WebApp Wallet Report](https://github.com/sui-foundation/security-audits/blob/main/docs/MystenLabs_Sui_Wallet_WebApp_Pentest_Report_Halborn_Final.pdf) by Halborn
 - [Vital Wallet Audit Report](https://hacken.io/audits/vital-wallet/dapp-vital-wallet-snap-audit-aug2024/) by Hacken
-- [ZEAL Wallet Audit Report](https://github.com/zealwallet/Wallet/blob/main/audits/Zeal%20Security%20Audit%20Report%20May%202024.pdf)
 - [Pontem Wallet Audit Report](https://github.com/Zellic/publications/blob/master/Pontem%20wallet%20-%20Zellic%20Audit%20Report.pdf) by Zellic
 - [Tesa Wallet Audit Report](https://github.com/EXVUL-Sec/AuditReport/blob/main/Wallet/ExVul%20%20Wallet%20Audit%20Report%20for%20Tesa.pdf) by ExvulSec
 - [Cypher Wallet Audit Report](https://github.com/oak-security/audit-reports/blob/main/Cypher%20Wallet/2023-05-19%20Audit%20Report%20-%20Cypher%20Wallet%20v1.2.pdf) by OakSecurity
@@ -47,6 +55,8 @@
 - [Chainsafer Front-end Audit Report](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20Chainsafer%20Web%20front-end_en-us.pdf) by Slowmist
 - [Frontier Wallet Audit Report](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20Frontier%20Wallet(Browser-Extension)_en-us.pdf) by Slowmist
 - [Termix MCP Wallet Audit Report](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20TermiX_bsc-mcp_Wallet_en_us.pdf) by Slowmist
+- [SUI Web Extension Wallet Report](https://github.com/sui-foundation/security-audits/blob/main/docs/mysten_labs_sui_wallet_report_0.9.pdf) by MystenLabs
+- [ZEAL Wallet Audit Report](https://github.com/zealwallet/Wallet/blob/main/audits/Zeal%20Security%20Audit%20Report%20May%202024.pdf) by Zeal Security
 
 ## Wallet Android App Audit Reports
 - [Earth Wallet Audit Report](https://github.com/HalbornSecurity/PublicReports/blob/master/Mobile%20Pentest/Earth_Wallet_Android_iOS_Mobile_App_Pentest_Report_Halborn_Final.pdf) by Halborn
