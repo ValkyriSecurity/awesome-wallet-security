@@ -35,6 +35,7 @@
 ## Courses 
 _Note: These courses are meant for users who are using crypto wallets for any operations, and is **highly recommended**_ 
 - [Wallet Security Basics](https://updraft.cyfrin.io/courses/web3-wallet-security-basics) by Cyfrin Updraft
+- [Advanced Wallet Security](https://updraft.cyfrin.io/courses/advanced-web3-wallet-security) by Cyfrin Updraft
 - [Crypto Security 101](https://learn.chainaware.ai/) : Mini Course by Chainaware
 
 ## Checklists 
