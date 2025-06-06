@@ -85,7 +85,7 @@ _Note: These courses are meant for users who are using crypto wallets for any op
 - [Fantom MultiSig Wallet Audit Report](https://github.com/sigp/public-audits/blob/master/reports/fantom/fantom-multisig-wallet/review.pdf) by SigmaPrime
 
 ## Tools 
-- [Wallet Audits](https://walletaudits.com) : [in progress] Scan configuration, dependencies and an AI-embedded vulnerability analyst to find issues in Crypto Wallet Extension
+- [Wallet Audits [IN PROGRESS] ](https://walletaudits.com) : Scan configuration, dependencies and an AI-embedded vulnerability analyst to find issues in Crypto Wallet Extension
 - [Wallet Guard](https://www.walletguard.app/) : Wallet Guard is a suite of security tools which include real time alerting, malicious extension detection, a personal security dashboard, and soon transaction simulations to navigate web3 safely
 - [Gatekeep](https://gatekeep.xyz/) : Anti-theft system for crypto wallets. Intercepts malicious transactions before they process on chain
 - [Revoke Cash](https://revoke.cash/) : Take Back Control of Your Wallet
