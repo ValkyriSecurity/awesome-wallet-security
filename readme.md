@@ -39,7 +39,7 @@ _Note: These courses are meant for users who are using crypto wallets for any op
 - [Crypto Security 101](https://learn.chainaware.ai/) : Mini Course by Chainaware
 
 ## Checklists 
-- [Blockcapex](https://blockapex.io/web3-wallet-security-checklist/) - Mobile, Desktop, Extension, Web
+- [BlockApex](https://blockapex.io/web3-wallet-security-checklist/) - Mobile, Desktop, Extension, Web
 - [Certik](https://www.certik.com/resources/blog/cryptowalletsecurityassessmentchecklist) - Mobile, Web, Extension, Desktop
 - [Slowmist](https://www.slowmist.com/service-wallet-security-audit.html) - Extension, Mobile & Desktop, Hardware, Web3 MCP
 - [Slowmist](https://slowmist.medium.com/slowmist-security-audit-checklist-for-account-abstraction-wallets-ed48fc10cdbc) - Account Abstraction Wallet (on-chain)
