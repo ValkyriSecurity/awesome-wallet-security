@@ -1,9 +1,6 @@
 > [!IMPORTANT]  
-> We are building a free **AI-assisted** tool for **Auditing Wallet Extension** - [WalletAudits.com](https://walletaudits.com)
->
-> Supply the URL of the Wallet Extension you've been using. And get the analysis of the issues, configurations, misconfigurations in place. Stay vigilant, and have the information before the breach knocks in!
 > 
-> DMs are open for audits and collaboration: [WalletAudits](https://t.me/WalletAudits)
+> For Crypto Wallet related audits / pentests / security reviews, reach out to [Valkyri](https://t.me/ValkyriSecurity)
 
 # Awesome Wallet Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![image](https://github.com/user-attachments/assets/8230c74d-4a71-4666-a93d-eadefa329660)
@@ -25,6 +22,7 @@
 
 
 ## Blogs
+- [How to Hack a Web3 Wallet (Legally): A Full-Stack Pentesting Guide](https://blog.valkyri.xyz/posts/wallet-extension-pentesting/) by Valkyri 
 - [Crypto Wallet Security ](https://www.cossacklabs.com/blog/crypto-wallets-security/) by security engineers
 - [Crypto Wallet Security](https://speakerdeck.com/julep/crypto-wallets-security-for-developers?slide=2) for developers
 - [Wallet Security Writeups](https://slowmist.medium.com/list/wallet-security-bed2028c226b) by Slowmist
