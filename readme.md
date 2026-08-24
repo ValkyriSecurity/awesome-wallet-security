@@ -91,5 +91,6 @@ _Note: These courses are meant for users who are using crypto wallets for any op
 - [Blockaid](https://www.blockaid.io/) : Protect users against fraud, scams, phishing, and hacks
 - [Solsniffer](https://www.solsniffer.com/) : Advanced token sniffer and wallet portfolio tracker on Solana for secure trading analysis.
 - [Cobo Argus](https://www.cobo.com/products/argus) : Cobo Argus addresses the complexity faced by Safe{Wallet} users in DeFi operations, which require multiple signatures. It introduces a single-signature module for better risk control and role delegation, simplifying team operations.
+- [S4](https://github.com/heyaibi/s4) : Offline Android app for BIP-39 → SLIP-39 paper backup — splits any BIP-39 seed phrase or raw entropy into 2-16 SLIP-39 shares (e.g., 6/any-3, 20-33 words), restores from any T with fingerprint and provides verbatim Recovery Guide for decades-later restore via any SLIP-39 tool; 100% offline (no INTERNET permission), GPL-3.0.
 
 
