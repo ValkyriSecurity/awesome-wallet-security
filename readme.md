@@ -91,5 +91,6 @@ _Note: These courses are meant for users who are using crypto wallets for any op
 - [Blockaid](https://www.blockaid.io/) : Protect users against fraud, scams, phishing, and hacks
 - [Solsniffer](https://www.solsniffer.com/) : Advanced token sniffer and wallet portfolio tracker on Solana for secure trading analysis.
 - [Cobo Argus](https://www.cobo.com/products/argus) : Cobo Argus addresses the complexity faced by Safe{Wallet} users in DeFi operations, which require multiple signatures. It introduces a single-signature module for better risk control and role delegation, simplifying team operations.
+- [Airgate](https://github.com/heyaibi/airgate) : Hardens dedicated Android devices for crypto cold-storage — always-on Device-Owner watchdog monitoring 14 wireless/USB/system-tamper signals with reactive hardening and automatic factory-reset wipe on breach; 100% offline (no INTERNET permission, Dhizuku), GPL-3.0.
 
 
