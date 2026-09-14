@@ -86,6 +86,7 @@ _Note: These courses are meant for users who are using crypto wallets for any op
 - [Wallet Guard](https://www.walletguard.app/) : Wallet Guard is a suite of security tools which include real time alerting, malicious extension detection, a personal security dashboard, and soon transaction simulations to navigate web3 safely
 - [Gatekeep](https://gatekeep.xyz/) : Anti-theft system for crypto wallets. Intercepts malicious transactions before they process on chain
 - [Revoke Cash](https://revoke.cash/) : Take Back Control of Your Wallet
+- [NightFall Crypto Access Exit Check](https://github.com/do2006/nightfall-crypto-access-exit-check) : Read-only post-revocation scanner for Safe owners/modules, Safe Allowance Module permissions, and ERC token approvals.
 - [Blowfish](https://blowfish.xyz/) : Blowfish is a risk-assessment tool for Web3 wallets
 - [PocketUniverse](https://www.pocketuniverse.app/) : Pocket Universe is a free browser extension that keeps assets safe when you sign web3 transactions.
 - [Blockaid](https://www.blockaid.io/) : Protect users against fraud, scams, phishing, and hacks
