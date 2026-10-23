@@ -35,6 +35,7 @@ _Note: These courses are meant for users who are using crypto wallets for any op
 - [Wallet Security Basics](https://updraft.cyfrin.io/courses/web3-wallet-security-basics) by Cyfrin Updraft
 - [Advanced Wallet Security](https://updraft.cyfrin.io/courses/advanced-web3-wallet-security) by Cyfrin Updraft
 - [Crypto Security 101](https://learn.chainaware.ai/) : Mini Course by Chainaware
+- [Crypto Scam Detection Quiz](https://github.com/cryptostrapon/crypto-scam-quiz) : Free open quiz with 50 scenarios on wallet drainers, approval phishing, fake tokens and seed phrase theft, by CryptoStrapon
 
 ## Checklists 
 - [BlockApex](https://blockapex.io/web3-wallet-security-checklist/) - Mobile, Desktop, Extension, Web
