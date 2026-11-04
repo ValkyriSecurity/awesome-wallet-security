@@ -91,5 +91,6 @@ _Note: These courses are meant for users who are using crypto wallets for any op
 - [Blockaid](https://www.blockaid.io/) : Protect users against fraud, scams, phishing, and hacks
 - [Solsniffer](https://www.solsniffer.com/) : Advanced token sniffer and wallet portfolio tracker on Solana for secure trading analysis.
 - [Cobo Argus](https://www.cobo.com/products/argus) : Cobo Argus addresses the complexity faced by Safe{Wallet} users in DeFi operations, which require multiple signatures. It introduces a single-signature module for better risk control and role delegation, simplifying team operations.
+- [FreezeRadar](https://freezeradar.com) : Wallet risk checks for freezeable assets (USDT, USDC, PAXG). Shows whether an address is blacklisted or frozen by the issuer and flags sanctions or exposure risk before you send or accept funds.
 
 
